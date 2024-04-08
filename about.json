@@ -6,16 +6,16 @@
   },
   "color_schemes": {
     "Default": {
-      "primary": "203243",
-      "secondary": "EEF4F7",
-      "tertiary": "416376",
-      "quaternary": "5E99B9",
-      "header_background": "FaFaFa",
-      "header_primary": "EEF4F7",
-      "highlight": "86BDDB",
-      "danger": "8F393E",
-      "success": "70DB82",
-      "love": "FC94CB"
+      "primary": "231f20",
+      "secondary": "ffffff",
+      "tertiary": "F04C53",
+      "quaternary": "EC1F27",
+      "header_background": "ffffff",
+      "header_primary": "3B3838",
+      "highlight": "F7A5A9",
+      "danger": "EC1F27",
+      "success": "009d63",
+      "love": "EC1F27"
     }
 }
 }
