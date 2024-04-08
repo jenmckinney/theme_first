@@ -3,6 +3,19 @@
     border-bottom: 1px solid var(--primary-low-mid);
     height: 5em;
     d-icon {
-        color: var(--primary-low-mid)
+        color: var(--secondary)
+    }
+  }
+
+  #main-outlet {
+    padding-top: 6.5em;
+  }
+
+  .navigation-container {
+    .select-kit.combo-box {
+      .select-kit-header {
+        border-radius: .9em;
+        background-color: var(--header_background);
+      }
     }
   }
