@@ -19,3 +19,22 @@
       }
     }
   }
+
+  .navigation-container {
+	.select-kit.combo-box {
+		// ...previous code
+		&.category-drop,
+    &.tag-drop {
+      .select-kit-body {
+        border-radius: .9em;
+        background-color: var(--header_background);
+  
+        .select-kit-collection {
+          background-color: var(--header_background);
+          border-top-left-radius: 0px;
+          border-top-right-radius: 0px;
+        }
+      }
+    }
+  }
+}
